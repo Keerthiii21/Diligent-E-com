@@ -1,0 +1,30 @@
+[
+    { "id": 1, "name": "T-Shirt", "price": 499, "image": "https://via.placeholder.com/150", "description":"Comfortable cotton T-Shirt" },
+    { "id": 2, "name": "Running Shoes", "price": 1299, "image": "https://via.placeholder.com/150", "description":"Lightweight running shoes" },
+    { "id": 3, "name": "Smart Watch", "price": 899, "image": "https://via.placeholder.com/150", "description":"Fitness smartwatch" }
+  ]
+  
+  [
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "price": 499,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable cotton T-Shirt"
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes",
+      "price": 1299,
+      "image": "https://via.placeholder.com/150",
+      "description": "Lightweight running shoes for everyday wear"
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "price": 899,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fitness smartwatch with health tracking features"
+    }
+  ]
+    
